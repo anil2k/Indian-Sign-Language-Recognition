@@ -5,6 +5,12 @@ The Indian Sign Language Recognition project utilizes the robust Mediapipe frame
 
 ![](sign.gif)
 
+## Features
+
+- Dataset Collection and Annotation: Collects and annotates a diverse dataset of Indian Sign Language gestures for training and evaluation purposes.
+- Mediapipe-based Landmark Detection: Utilizes the power of Mediapipe framework for real-time detection and tracking of landmarks in Indian Sign Language gestures.
+- Gesture Classification Model: Implements a gesture classification model trained using machine learning techniques, enabling accurate interpretation of detected landmarks.
+- Real-time Recognition: Provides instantaneous recognition of sign language gestures, facilitating seamless communication.
 
 [youtube-shield]: https://img.shields.io/badge/-youtube-black.svg?style=for-the-badge&logo=youtube&colorR=555
 [youtube-url]: https://www.youtube.com/channel/UC8pztyZ8bYiflGMKGcLdAGw
