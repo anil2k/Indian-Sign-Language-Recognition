@@ -17,7 +17,7 @@ The Indian Sign Language Recognition project utilizes the robust Mediapipe frame
 1. Clone the repository: `git clone https://github.com/anil2k/Indian-Sign-Language-Recognition.git`
 2. Set up the required dependencies, including OpenCV and MediaPipe.
 3.  Download model from link `https://drive.google.com/drive/folders/1YtdU_KWAsxlOCbdaUeu0dgDqQS5MtU_t?usp=sharing`
-4. Run the `inference_classifier.py` script to start the virtual keyboard application.
+4. Run the `inference_classifier.py` script to start Sign Recognition.
 
 [youtube-shield]: https://img.shields.io/badge/-youtube-black.svg?style=for-the-badge&logo=youtube&colorR=555
 [youtube-url]: https://www.youtube.com/channel/UC8pztyZ8bYiflGMKGcLdAGw
